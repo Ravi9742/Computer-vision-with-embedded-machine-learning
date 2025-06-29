@@ -1,1 +1,1 @@
-# Computer-vision-with-embedded-machine-learning
+# Computer-vision-with-embedded-linux (POSIX)
